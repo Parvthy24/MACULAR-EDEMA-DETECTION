@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7987FD48-0A67-4902-97B9-AA40A89EC179}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>dRd</RootNamespace>
+    <AssemblyName>dRd</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge">
+      <HintPath>..\..\..\dorsal vein images\DVBA\DVBA\bin\Debug\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging">
+      <HintPath>..\..\..\dorsal vein images\DVBA\DVBA\bin\Debug\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math">
+      <HintPath>..\..\..\dorsal vein images\DVBA\DVBA\bin\Debug\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV">
+      <HintPath>..\..\..\dorsal vein images\DVBA\DVBA\bin\Debug\Emgu.CV.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.ML">
+      <HintPath>..\..\..\dorsal vein images\DVBA\DVBA\bin\Debug\Emgu.CV.ML.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI">
+      <HintPath>..\..\..\dorsal vein images\DVBA\DVBA\bin\Debug\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.Util">
+      <HintPath>..\..\..\dorsal vein images\DVBA\DVBA\bin\Debug\Emgu.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BasePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasePage.Designer.cs">
+      <DependentUpon>BasePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConvLayer.cs" />
+    <Compile Include="DetectionPhase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetectionPhase.Designer.cs">
+      <DependentUpon>DetectionPhase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="D_1_FundusUpload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="D_1_FundusUpload.Designer.cs">
+      <DependentUpon>D_1_FundusUpload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="D_2_Detection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="D_2_Detection.Designer.cs">
+      <DependentUpon>D_2_Detection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="D_3_Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="D_3_Result.Designer.cs">
+      <DependentUpon>D_3_Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FullyConnectedLayer.cs" />
+    <Compile Include="Graphical.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Graphical.Designer.cs">
+      <DependentUpon>Graphical.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Homepage.Designer.cs">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDocumentsHost.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaxPooling.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReLU.cs" />
+    <Compile Include="SimpleCNN.cs" />
+    <Compile Include="Tensor.cs" />
+    <Compile Include="T_1_FundusUpload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_1_FundusUpload.Designer.cs">
+      <DependentUpon>T_1_FundusUpload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_2_Resize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_2_Resize.Designer.cs">
+      <DependentUpon>T_2_Resize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_3_Cropping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_3_Cropping.Designer.cs">
+      <DependentUpon>T_3_Cropping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_3_MedianFiltering.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_3_MedianFiltering.Designer.cs">
+      <DependentUpon>T_3_MedianFiltering.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_4_GaussianFiltering.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_4_GaussianFiltering.Designer.cs">
+      <DependentUpon>T_4_GaussianFiltering.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_5_DataAugmentation_Hflip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_5_DataAugmentation_Hflip.Designer.cs">
+      <DependentUpon>T_5_DataAugmentation_Hflip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_6_DataAugmentation_Vflip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_6_DataAugmentation_Vflip.Designer.cs">
+      <DependentUpon>T_6_DataAugmentation_Vflip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_7_DataAugmentation_Rotate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_7_DataAugmentation_Rotate.Designer.cs">
+      <DependentUpon>T_7_DataAugmentation_Rotate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_8_Features.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_8_Features.Designer.cs">
+      <DependentUpon>T_8_Features.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_9_Results.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_9_Results.Designer.cs">
+      <DependentUpon>T_9_Results.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Tensor.cs" />
+    <EmbeddedResource Include="BasePage.resx">
+      <DependentUpon>BasePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetectionPhase.resx">
+      <DependentUpon>DetectionPhase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="D_1_FundusUpload.resx">
+      <DependentUpon>D_1_FundusUpload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="D_2_Detection.resx">
+      <DependentUpon>D_2_Detection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="D_3_Result.resx">
+      <DependentUpon>D_3_Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graphical.resx">
+      <DependentUpon>Graphical.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Homepage.resx">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="T_1_FundusUpload.resx">
+      <DependentUpon>T_1_FundusUpload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_2_Resize.resx">
+      <DependentUpon>T_2_Resize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_3_Cropping.resx">
+      <DependentUpon>T_3_Cropping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_3_MedianFiltering.resx">
+      <DependentUpon>T_3_MedianFiltering.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_4_GaussianFiltering.resx">
+      <DependentUpon>T_4_GaussianFiltering.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_5_DataAugmentation_Hflip.resx">
+      <DependentUpon>T_5_DataAugmentation_Hflip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_6_DataAugmentation_Vflip.resx">
+      <DependentUpon>T_6_DataAugmentation_Vflip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_7_DataAugmentation_Rotate.resx">
+      <DependentUpon>T_7_DataAugmentation_Rotate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_8_Features.resx">
+      <DependentUpon>T_8_Features.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_9_Results.resx">
+      <DependentUpon>T_9_Results.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

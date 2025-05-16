@@ -1,0 +1,260 @@
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\bin\Debug\dRd.exe.config
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\bin\Debug\dRd.exe
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\bin\Debug\dRd.pdb
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.csprojResolveAssemblyReference.cache
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.Login.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.Properties.Resources.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.csproj.GenerateResource.Cache
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.exe
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.pdb
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.BasePage.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_1_FundusUpload.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_2_Resize.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_3_Cropping.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\bin\Debug\AForge.dll
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\bin\Debug\AForge.Imaging.dll
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\bin\Debug\AForge.Math.dll
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\bin\Debug\Emgu.CV.dll
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\bin\Debug\Emgu.CV.ML.dll
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\bin\Debug\Emgu.CV.UI.dll
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\bin\Debug\Emgu.Util.dll
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\bin\Debug\Emgu.CV.ML.xml
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_3_MedianFiltering.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_4_GaussianFiltering.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_5_DataAugmentation_Hflip.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_6_DataAugmentation_Vflip.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_7_DataAugmentation_Rotate.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_8_Features.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_9_Results.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.D_1_FundusUpload.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.D_2_Detection.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.Homepage.resources
+D:\projects\2021\dotnet\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.D_3_Result.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\bin\Debug\dRd.exe.config
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.exe
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.pdb
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\bin\Debug\dRd.exe
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\bin\Debug\dRd.pdb
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\bin\Debug\mscorlib.dll
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\bin\Debug\Emgu.CV.ML.xml
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\bin\Debug\normidna.nlp
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\bin\Debug\normnfc.nlp
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\bin\Debug\normnfd.nlp
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\bin\Debug\normnfkc.nlp
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\bin\Debug\normnfkd.nlp
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.csprojResolveAssemblyReference.cache
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.BasePage.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.D_1_FundusUpload.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.D_2_Detection.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.D_3_Result.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.Homepage.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.Login.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.Properties.Resources.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_1_FundusUpload.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_2_Resize.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_3_Cropping.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_3_MedianFiltering.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_4_GaussianFiltering.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_5_DataAugmentation_Hflip.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_6_DataAugmentation_Vflip.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_7_DataAugmentation_Rotate.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_8_Features.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.T_9_Results.resources
+F:\YUVATECH 2021\PROJECT\Jithin\diabetic retinopathy\diabetic retinopathy\dRd\dRd\obj\Debug\dRd.csproj.GenerateResource.Cache
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\bin\Debug\dRd.exe.config
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.exe
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.pdb
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\bin\Debug\dRd.exe
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\bin\Debug\dRd.pdb
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\bin\Debug\Emgu.CV.ML.xml
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.BasePage.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.D_1_FundusUpload.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.D_2_Detection.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.D_3_Result.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.Homepage.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.Login.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.Properties.Resources.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.T_1_FundusUpload.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.T_2_Resize.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.T_3_Cropping.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.T_3_MedianFiltering.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.T_4_GaussianFiltering.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.T_5_DataAugmentation_Hflip.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.T_6_DataAugmentation_Vflip.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.T_7_DataAugmentation_Rotate.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.T_8_Features.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.T_9_Results.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.csproj.GenerateResource.Cache
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.Graphical.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy-Final\dRd\dRd\obj\Debug\dRd.DetectionPhase.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\bin\Debug\dRd.exe.config
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.exe
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.pdb
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\bin\Debug\dRd.exe
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\bin\Debug\dRd.pdb
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\bin\Debug\Emgu.CV.ML.xml
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.BasePage.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.DetectionPhase.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.D_1_FundusUpload.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.D_2_Detection.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.D_3_Result.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.Graphical.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.Homepage.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.Login.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.Properties.Resources.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_1_FundusUpload.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_2_Resize.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_3_Cropping.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_3_MedianFiltering.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_4_GaussianFiltering.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_5_DataAugmentation_Hflip.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_6_DataAugmentation_Vflip.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_7_DataAugmentation_Rotate.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_8_Features.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_9_Results.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.csproj.GenerateResource.Cache
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\bin\Debug\dRd.exe.config
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.exe
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.pdb
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\bin\Debug\dRd.exe
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\bin\Debug\dRd.pdb
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\bin\Debug\Emgu.CV.ML.xml
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.BasePage.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.DetectionPhase.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.D_1_FundusUpload.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.D_2_Detection.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.D_3_Result.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.Graphical.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.Homepage.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.Login.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.Properties.Resources.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_1_FundusUpload.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_2_Resize.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_3_Cropping.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_3_MedianFiltering.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_4_GaussianFiltering.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_5_DataAugmentation_Hflip.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_6_DataAugmentation_Vflip.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_7_DataAugmentation_Rotate.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_8_Features.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_9_Results.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\diabetic retinopathy\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.csproj.GenerateResource.Cache
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\bin\Debug\dRd.exe.config
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\bin\Debug\dRd.exe
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\bin\Debug\dRd.pdb
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\bin\Debug\Emgu.CV.ML.xml
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.csproj.AssemblyReference.cache
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.BasePage.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.DetectionPhase.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.D_1_FundusUpload.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.D_2_Detection.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.D_3_Result.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.Graphical.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.Homepage.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.Login.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.Properties.Resources.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_1_FundusUpload.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_2_Resize.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_3_Cropping.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_3_MedianFiltering.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_4_GaussianFiltering.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_5_DataAugmentation_Hflip.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_6_DataAugmentation_Vflip.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_7_DataAugmentation_Rotate.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_8_Features.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.T_9_Results.resources
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.csproj.GenerateResource.cache
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.csproj.CoreCompileInputs.cache
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.csproj.Up2Date
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.exe
+E:\YUVATECH2024\PROJECT STUDY\Karivattom\RetinalOCT\diabetic retinopathy1-Final\dRd\dRd\obj\Debug\dRd.pdb
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\bin\Debug\dRd.exe.config
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\bin\Debug\dRd.exe
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\bin\Debug\dRd.pdb
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\bin\Debug\Emgu.CV.ML.xml
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.csproj.AssemblyReference.cache
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.BasePage.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.DetectionPhase.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.D_1_FundusUpload.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.D_2_Detection.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.D_3_Result.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.Graphical.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.Homepage.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.Login.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.Properties.Resources.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.T_1_FundusUpload.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.T_2_Resize.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.T_3_Cropping.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.T_3_MedianFiltering.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.T_4_GaussianFiltering.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.T_5_DataAugmentation_Hflip.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.T_6_DataAugmentation_Vflip.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.T_7_DataAugmentation_Rotate.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.T_8_Features.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.T_9_Results.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.csproj.GenerateResource.cache
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.csproj.CoreCompileInputs.cache
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.csproj.Up2Date
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.exe
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT\dRd\dRd\obj\Debug\dRd.pdb
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\bin\Debug\dRd.exe.config
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\bin\Debug\dRd.exe
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\bin\Debug\dRd.pdb
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\bin\Debug\Emgu.CV.ML.xml
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.csproj.AssemblyReference.cache
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.BasePage.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.DetectionPhase.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.D_1_FundusUpload.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.D_2_Detection.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.D_3_Result.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.Graphical.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.Homepage.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.Login.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.Properties.Resources.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_1_FundusUpload.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_2_Resize.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_3_Cropping.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_3_MedianFiltering.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_4_GaussianFiltering.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_5_DataAugmentation_Hflip.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_6_DataAugmentation_Vflip.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_7_DataAugmentation_Rotate.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_8_Features.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_9_Results.resources
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.csproj.GenerateResource.cache
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.csproj.CoreCompileInputs.cache
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.csproj.Up2Date
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.exe
+E:\YUVATECH2024\PROJECT\MSc_Distance\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.pdb
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\bin\Debug\dRd.exe.config
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\bin\Debug\dRd.exe
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\bin\Debug\dRd.pdb
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\bin\Debug\Emgu.CV.ML.xml
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.csproj.AssemblyReference.cache
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.BasePage.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.DetectionPhase.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.D_1_FundusUpload.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.D_2_Detection.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.D_3_Result.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.Graphical.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.Homepage.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.Login.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.Properties.Resources.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_1_FundusUpload.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_2_Resize.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_3_Cropping.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_3_MedianFiltering.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_4_GaussianFiltering.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_5_DataAugmentation_Hflip.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_6_DataAugmentation_Vflip.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_7_DataAugmentation_Rotate.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_8_Features.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.T_9_Results.resources
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.csproj.GenerateResource.cache
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.csproj.CoreCompileInputs.cache
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.csproj.Up2Date
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.exe
+D:\RetinalOCTModified\RetinalOCT(Modified)\RetinalOCT(Modified)\dRd\dRd\obj\Debug\dRd.pdb
